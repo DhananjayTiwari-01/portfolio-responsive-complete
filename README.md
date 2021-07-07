@@ -1,6 +1,6 @@
 
 # Responsive Portfolio
-This is a Responsive Portfolio Template
+This is a Responsive Portfolio Template created 
 by me. Click On Code to Download the Template.
 
 
